@@ -6,8 +6,8 @@
 
 ### ⏳ Status do projeto: 1/3 Sprint
 ### Outros repositórios :
-## <a href="https://github.com/Equipe-Skyfall/nectopoint-front"> Repositório Frontend<a/>
-## <a href="https://github.com/Equipe-Skyfall/nectopoint-back"> Repositório Backend<a/>
+#### <a href="https://github.com/Equipe-Skyfall/nectopoint-front"> Repositório Frontend<a/>
+#### <a href="https://github.com/Equipe-Skyfall/nectopoint-back"> Repositório Backend<a/>
 
 ---
 
