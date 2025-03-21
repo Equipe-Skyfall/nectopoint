@@ -1,4 +1,4 @@
-# FATEC Profº Jessen Vidal - São José dos Campos - 3º Semestre DSM - 2024
+# FATEC Profº Jessen Vidal - São José dos Campos - 3º Semestre DSM - 2025
 
 <p>Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 3° Semestre do curso Desenvolvimento de Software Multiplataforma (DSM) em parceria com a Necto Systems.</p>
 
@@ -67,7 +67,6 @@
 <img src="https://img.shields.io/badge/prisma-000000?style=for-the-badge&logo=prisma&logoColor=black&color=06b6d4">
 <img src="https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=black&color=06b6d4">
 <img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=black&color=06b6d4">
-<img src="https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=black&color=06b6d4">
 <img src="https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=black&color=06b6d4">
 <img src="https://img.shields.io/badge/tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=black&color=06b6d4">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white&color=06b6d4">
