@@ -1,0 +1,9 @@
+[submodule "nectopoint-front"]
+	path = nectopoint-front
+	url = https://github.com/Equipe-Skyfall/nectopoint-front.git
+[submodule "nectopoint-back"]
+	path = nectopoint-back
+	url = https://github.com/Equipe-Skyfall/nectopoint-back.git
+[submodule "nectopoint-bd"]
+	path = nectopoint-bd
+	url = https://github.com/Equipe-Skyfall/nectopoint-bd.git
