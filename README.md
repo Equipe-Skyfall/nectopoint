@@ -79,25 +79,27 @@
 
 ## 📜 Product Backlog <a name="backlog"><a>
 
-| RANK | SPRINT | PRIORIDADE | ITEM | USER STORY (NOME)                                           | STATUS |
-|:----:|:------:|:----------:|:----:|:-----------------------------------------------------------:|:------:|
-| 1    |   1    |   Alta     |  1   | Cadastro e administração de Colaboradores pelo Administrador          |        |
-| 2    |   1    |   Alta     |  2   | Registro de Ponto pelo Colaborador                          |        |
-| 3    |   1    |   Alta     |  3   | Visualização de Histórico de Marcações pelo Colaborador     |        |
-| 4    |   2    |   Média    |  4   | Geração de Relatórios de Ausências e Horas Extras           |        |
-| 5    |   2    |   Média    |  5   | Cálculo Automático de Horas Extras pelo Sistema             |        |
-| 6    |   2    |   Média    |  6   | Solicitação de Férias pelo Colaborador                      |        |
-| 7    |   2    |   Média    |  7   | Alerta de Esquecimento de Registro de Ponto pelo Sistema    |        |
-| 8    |   3    |   Baixa    |  8   | Ajuste Manual de Marcações de Ponto pelo Administrador      |        |
-| 9    |   3    |   Baixa    |  9   | Aprovação/Reprovação de Solicitações de Férias pelo Administrador |        |
-| 10   |   3    |   Baixa    | 10   | Conformidade com Normas Trabalhistas (CLT) pelo Sistema     |        |
-| 11   |   3    |   Baixa    | 11   | Geração de Relatórios Detalhados do Banco de Horas          |        |
-| 12   |   3    |   Baixa    | 12   | Justificativa de Ausências ou Atrasos pelo Colaborador      |        |
-| 13   |   3    |   Baixa    | 13   | Configuração de Jornadas Flexíveis pelo Administrador       |        |
-| 14   |   3    |   Baixa    | 14   | Anexação de Atestados Médicos pelo Colaborador              |        |
-| 15   |   3    |   Baixa    | 15   | Configuração de Folgas Obrigatórias e Escalas pelo Administrador |        |
-| 16   |   3    |   Baixa    | 16   | Gerenciamento de Locais de Trabalho e Turnos pelo Administrador |        |
-| 17   |   3    |   Baixa    | 17   | Geração de Gráficos de Horas Extras e Faltas pelo Administrador |        |
+| RANK | SPRINT | PRIORIDADE | ITEM | USER STORY (NOME)                                             | STATUS |
+|:----:|:------:|:----------:|:----:|:-------------------------------------------------------------:|:------:|
+| 1    |   1    |   Alta     |  1   | Cadastro de novos colaboradores pelo Administrador           |    ✅    |
+| 2    |   1    |   Alta     |  2   | Registro de entrada, saída e intervalos pelo Colaborador     |    ✅    |
+| 3    |   1    |   Alta     |  3   | Visualização do histórico de marcações pelo Colaborador      |    ✅    |
+| 4    |   2    |   Média    |  4   | Geração de relatórios de ausências e horas extras            |         |
+| 5    |   2    |   Média    |  5   | Cálculo automático de horas extras pelo Sistema              |         |
+| 6    |   2    |   Média    |  6   | Solicitação de autorização para horas extras pelo Colaborador |         |
+| 7    |   2    |   Média    |  7   | Solicitação de férias pelo Colaborador                       |         |
+| 8    |   2    |   Média    |  8   | Envio de alertas sobre marcação de ponto pelo Sistema        |         |
+| 9    |   2    |   Baixa    |  9   | Aprovação ou reprovação de solicitações de férias            |         |
+| 10   |   2    |   Média    | 10   | Justificativa de ausências ou atrasos pelo Colaborador       |         |
+| 11   |   2    |   Baixa    | 11   | Anexação de atestados médicos pelo Colaborador               |         |
+| 12   |   3    |   Baixa    | 12   | Ajuste manual de marcações de ponto pelo Administrador       |         |
+| 13   |   3    |   Baixa    | 13   | Conformidade com normas trabalhistas (CLT) pelo Sistema      |         |
+| 14   |   3    |   Baixa    | 14   | Geração de relatórios detalhados do banco de horas           |         |
+| 15   |   3    |   Média    | 15   | Configuração de jornadas de trabalho flexíveis               |         |
+| 16   |   3    |   Baixa    | 16   | Configuração de folgas obrigatórias e escalas de trabalho    |         |
+| 17   |   3    |   Baixa    | 17   | Gerenciamento de locais de trabalho e turnos                 |         |
+| 18   |   3    |   Baixa    | 18   | Geração de gráficos de horas extras e faltas                 |         |
+
 
 ---
 
