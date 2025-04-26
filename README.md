@@ -4,6 +4,9 @@
 
 > _A API se trata de um projeto submetido à metodologia de ensino em implantação na Fatec São José dos Campos, do qual os alunos formam equipes baseadas na metodologia ágil SCRUM, tendo um aluno como Scrum Master, um sendo o Product Owner e o restante dos integrantes como Dev Team._
 
+### 📃 Arquitetura de Branchs 
+  # Main - Estado de desenvolvimento atual
+  # Sprint X - Instancia de todos respositórios ao fim da Sprint X
 ### ⏳ Status do projeto: 2/3 Sprint
 
 ### 📃 Respositórios 
@@ -84,16 +87,16 @@
 | 1    |   1    |   Alta     |  1   | Cadastro de novos colaboradores pelo Administrador           |    ✅    |
 | 2    |   1    |   Alta     |  2   | Registro de entrada, saída e intervalos pelo Colaborador     |    ✅    |
 | 3    |   1    |   Alta     |  3   | Visualização do histórico de marcações pelo Colaborador      |    ✅    |
-| 4    |   2    |   Média    |  4   | Geração de relatórios de ausências e horas extras            |         |
-| 5    |   2    |   Média    |  5   | Cálculo automático de horas extras pelo Sistema              |         |
-| 6    |   2    |   Média    |  6   | Solicitação de autorização para horas extras pelo Colaborador |         |
-| 7    |   2    |   Média    |  7   | Solicitação de férias pelo Colaborador                       |         |
-| 8    |   2    |   Média    |  8   | Envio de alertas sobre marcação de ponto pelo Sistema        |         |
-| 9    |   2    |   Baixa    |  9   | Aprovação ou reprovação de solicitações de férias            |         |
-| 10   |   2    |   Média    | 10   | Justificativa de ausências ou atrasos pelo Colaborador       |         |
-| 11   |   2    |   Baixa    | 11   | Anexação de atestados médicos pelo Colaborador               |         |
-| 12   |   3    |   Baixa    | 12   | Ajuste manual de marcações de ponto pelo Administrador       |         |
-| 13   |   3    |   Baixa    | 13   | Conformidade com normas trabalhistas (CLT) pelo Sistema      |         |
+| 4    |   2    |   Média    |  4   | Geração de relatórios de ausências e horas extras            |     ✅    |
+| 5    |   2    |   Média    |  5   | Cálculo automático de horas extras pelo Sistema              |     ✅  |
+| 6    |   2    |   Média    |  6   | Solicitação de autorização para horas extras pelo Colaborador |    ✅    |
+| 7    |   2    |   Média    |  7   | Solicitação de férias pelo Colaborador                       |     ✅   |
+| 8    |   2    |   Média    |  8   | Envio de alertas sobre marcação de ponto pelo Sistema        |     ✅   |
+| 9    |   2    |   Baixa    |  9   | Aprovação ou reprovação de solicitações de férias            |     ✅   |
+| 10   |   2    |   Média    | 10   | Justificativa de ausências ou atrasos pelo Colaborador       |     ✅   |
+| 11   |   2    |   Baixa    | 11   | Anexação de atestados médicos pelo Colaborador               |     ✅   |
+| 12   |   3    |   Baixa    | 12   | Ajuste manual de marcações de ponto pelo Administrador       |        |
+| 13   |   3    |   Baixa    | 13   | Conformidade com normas trabalhistas (CLT) pelo Sistema      |        |
 | 14   |   3    |   Baixa    | 14   | Geração de relatórios detalhados do banco de horas           |         |
 | 15   |   3    |   Média    | 15   | Configuração de jornadas de trabalho flexíveis               |         |
 | 16   |   3    |   Baixa    | 16   | Configuração de folgas obrigatórias e escalas de trabalho    |         |
