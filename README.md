@@ -94,7 +94,7 @@
 | 8    |   2    |   Baixa    |  9   | Aprovação ou reprovação de solicitações de férias            |     ✅   |
 | 9   |   2    |   Média    | 10   | Justificativa de ausências ou atrasos pelo Colaborador       |     ✅   |
 | 10   |   2    |   Baixa    | 11   | Anexação de atestados médicos pelo Colaborador               |     ✅   |
-| 11    |   3    |   Média    |  8   | Envio de alertas sobre marcação de ponto pelo Sistema        |        |
+| 11    |   3    |   Baixa    |  8   | Envio de alertas sobre marcação de ponto pelo Sistema        |        |
 | 12   |   3    |   Baixa    | 12   | Ajuste manual de marcações de ponto pelo Administrador       |        |
 | 13   |   3    |   Baixa    | 13   | Conformidade com normas trabalhistas (CLT) pelo Sistema      |        |
 | 14   |   3    |   Baixa    | 14   | Geração de relatórios detalhados do banco de horas           |         |
