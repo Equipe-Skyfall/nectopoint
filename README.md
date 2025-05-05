@@ -4,7 +4,7 @@
 
 > _A API se trata de um projeto submetido à metodologia de ensino em implantação na Fatec São José dos Campos, do qual os alunos formam equipes baseadas na metodologia ágil SCRUM, tendo um aluno como Scrum Master, um sendo o Product Owner e o restante dos integrantes como Dev Team._
 
-### 📃 Arquitetura de Branchs 
+### 📃 Estrutura de Branchs 
   #### Main - Estado de desenvolvimento atual
   #### Sprint X - Instancia de todos respositórios ao fim da Sprint X
 ### ⏳ Status do projeto: 2/3 Sprint
@@ -75,6 +75,20 @@
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white&color=06b6d4">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&color=06b6d4">
 </div>
+
+## 💻 Padrões de commit
+
+#feat: Adição de um novo recurso ou funcionalidade.
+
+#fix: Correção de um bug.
+
+#docs: Alterações na documentação.
+
+#style: Mudanças que não afetam o significado do código (espaços em branco, formatação, etc.).
+
+#refactor: Alteração no código que não corrige bugs nem adiciona funcionalidades.
+
+#merge : Merge entre branches
 
 
 ---
