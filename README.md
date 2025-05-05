@@ -78,17 +78,17 @@
 
 ## 💻 Padrões de commit
 
-#feat: Adição de um novo recurso ou funcionalidade.
+feat: Adição de um novo recurso ou funcionalidade.
 
-#fix: Correção de um bug.
+fix: Correção de um bug.
 
-#docs: Alterações na documentação.
+docs: Alterações na documentação.
 
-#style: Mudanças que não afetam o significado do código (espaços em branco, formatação, etc.).
+style: Mudanças que não afetam o significado do código (espaços em branco, formatação, etc.).
 
-#refactor: Alteração no código que não corrige bugs nem adiciona funcionalidades.
+refactor: Alteração no código que não corrige bugs nem adiciona funcionalidades.
 
-#merge : Merge entre branches
+merge : Merge entre branches
 
 
 ---
