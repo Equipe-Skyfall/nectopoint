@@ -7,7 +7,7 @@
 ### 📃 Estrutura de Branchs 
   #### Main - Estado de desenvolvimento atual
   #### Sprint X - Instancia de todos respositórios ao fim da Sprint X
-### ⏳ Status do projeto: 2/3 Sprint
+### ⏳ Status do projeto: 3/3 Sprint
 
 ### 📃 Respositórios 
 - [Repositório FrontEnd](https://github.com/Equipe-Skyfall/nectopoint-front)
@@ -108,14 +108,14 @@ merge : Merge entre branches
 | 8    |   2    |   Baixa    |  8   | Aprovação ou reprovação de solicitações de férias            |     ✅   |
 | 9   |   2    |   Média    | 9   | Justificativa de ausências ou atrasos pelo Colaborador       |     ✅   |
 | 10   |   2    |   Baixa    | 10   | Anexação de atestados médicos pelo Colaborador               |     ✅   |
-| 11    |   3    |   Baixa    |  11   | Envio de alertas sobre marcação de ponto pelo Sistema        |        |
-| 12   |   3    |   Baixa    | 12   | Ajuste manual de marcações de ponto pelo Administrador       |        |
-| 13   |   3    |   Baixa    | 13   | Conformidade com normas trabalhistas (CLT) pelo Sistema      |        |
-| 14   |   3    |   Baixa    | 14   | Geração de relatórios detalhados do banco de horas           |         |
-| 15   |   3    |   Média    | 15   | Configuração de jornadas de trabalho flexíveis               |         |
-| 16   |   3    |   Baixa    | 16   | Configuração de folgas obrigatórias e escalas de trabalho    |         |
-| 17   |   3    |   Baixa    | 17   | Gerenciamento de locais de trabalho e turnos                 |         |
-| 18   |   3    |   Baixa    | 18   | Geração de gráficos de horas extras e faltas                 |         |
+| 11    |   3    |   Baixa    |  11   | Envio de alertas sobre marcação de ponto pelo Sistema        |   ✅     |
+| 12   |   3    |   Baixa    | 12   | Ajuste manual de marcações de ponto pelo Administrador       |    ✅    |
+| 13   |   3    |   Baixa    | 13   | Conformidade com normas trabalhistas (CLT) pelo Sistema      |    ✅    |
+| 14   |   3    |   Baixa    | 14   | Geração de relatórios detalhados do banco de horas           |     ✅    |
+| 15   |   3    |   Média    | 15   | Configuração de jornadas de trabalho flexíveis               |     ✅    |
+| 16   |   3    |   Baixa    | 16   | Configuração de folgas obrigatórias e escalas de trabalho    |    ✅     |
+| 17   |   3    |   Baixa    | 17   | Gerenciamento de locais de trabalho e turnos                 |     ✅    |
+| 18   |   3    |   Baixa    | 18   | Geração de gráficos de horas extras e faltas                 |     ✅    |
 
 
 ---
